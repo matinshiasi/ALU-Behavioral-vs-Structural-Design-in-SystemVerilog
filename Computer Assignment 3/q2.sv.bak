@@ -1,0 +1,39 @@
+module ALU_struct(
+    input signed [15:0] inM,
+    input signed [15:0] inN,
+    input inC,
+    input [2:0] opc,
+    output reg signed [15:0] outF,
+    output reg zer,
+    output reg neg
+);
+wire [15:0] ml, m2, m3, m4;
+wire [1:0] s;
+wire cinAdder, selector;
+wire [15:0] max;
+
+assign ml = (opc[1:0] == 2'b00) ? inN :
+            (opc[1:0] == 2'b01) ? (inN >>> 1) :
+            (opc[1:0] == 2'b10) ? ~inN :
+            (opc[1:0] == 2'b11) ? (inM <<< 1) :
+            16'd0;
+
+assign cinAdder = (inC & ~opc[1] & ~opc[0]) | (opc[1] & opc[0]);
+assign selector = opc[1] & opc[0];
+assign max = (inM > inN) ? inM : inN;
+assign m2 = inM + ml + cinAdder;
+assign m3 = (opc == 3'b010) ? max : m2;
+
+assign s = {(opc[1] | ~opc[2]), (opc[0] | ~opc[2])};
+
+assign outF = (opc == 3'b111) ? 16'bx :
+             (s == 2'b00) ? (inM & inN) :
+             (s == 2'b01) ? (inM | inN) :
+             (s == 2'b10) ? ~inM :
+             (s == 2'b11) ? m3 :
+             16'd0;
+
+assign zer = ~(|outF);
+assign neg = outF[15];
+
+endmodule

@@ -1,0 +1,408 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1715104796
+Vo0=@<M[eVaBNU2PSgFYno1
+Z1 04 3 4 work tb2 fast 0
+=1-40a3cc8bba0a-663a6c1c-bc-35c0
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1715104765
+VKLoge5kI]j@^el]zo403g0
+R1
+=1-40a3cc8bba0a-663a6bfd-47-2128
+o-quiet -auto_acc_if_foreign -work work
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1715104291
+VIVYW5jg9[Ic0>MN4M<6JV3
+04 9 4 work tb2_yosys fast 0
+=1-40a3cc8bba0a-663a6a23-23c-469c
+R2
+R3
+n@_opt2
+R4
+R0
+vALU
+Z5 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1715104879
+!i10b 1
+!s100 _Li5D?X>l3_>hLg4FYN822
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IdCzG`:kb?2JHa2jbCH8[J0
+S1
+Z7 dC:/Users/Asus/Desktop/CA3
+w1715060877
+8C:/Users/Asus/Desktop/CA3/q1.sv
+FC:/Users/Asus/Desktop/CA3/q1.sv
+!i122 311
+L0 1 28
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1715104879.000000
+!s107 C:/Users/Asus/Desktop/CA3/q1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Asus/Desktop/CA3/q1.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@a@l@u
+vALU_struct
+R5
+Z12 !s110 1715104880
+!i10b 1
+!s100 ]X8?b3UgRBeU]]]e:INe>2
+R6
+I8C9BY?QX<67]^V]OT;BA92
+S1
+R7
+w1715104025
+8C:/Users/Asus/Desktop/CA3/q2-yosys.sv
+FC:/Users/Asus/Desktop/CA3/q2-yosys.sv
+!i122 318
+L0 5 5437
+R8
+R9
+r1
+!s85 0
+31
+Z13 !s108 1715104880.000000
+!s107 C:/Users/Asus/Desktop/CA3/q2-yosys.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Asus/Desktop/CA3/q2-yosys.sv|
+!i113 0
+R11
+R3
+n@a@l@u_struct
+vALU_tb
+R5
+!s110 1714732053
+!i10b 1
+!s100 TBo7cPaD6YR]:j:iEHfF13
+R6
+I?JH`5?;74QHR]Vgd1302f3
+S1
+R7
+w1714732043
+8C:\Users\Asus\Desktop\CA3\tb1.sv
+FC:\Users\Asus\Desktop\CA3\tb1.sv
+!i122 6
+L0 1 34
+R8
+R9
+r1
+!s85 0
+31
+!s108 1714732053.000000
+!s107 C:\Users\Asus\Desktop\CA3\tb1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Asus\Desktop\CA3\tb1.sv|
+!i113 0
+R11
+R3
+n@a@l@u_tb
+vALU_YOSYS
+R12
+!i10b 1
+!s100 1<W7Jz7[KVedaGbchkZ>L0
+R6
+IiE<R25e2Q1zQXE=3>z04S3
+R7
+w1715061500
+8C:/Users/Asus/Desktop/CA3/q1-yosys.v
+FC:/Users/Asus/Desktop/CA3/q1-yosys.v
+!i122 313
+Z14 L0 5 6284
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Asus/Desktop/CA3/q1-yosys.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Asus/Desktop/CA3/q1-yosys.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@a@l@u_@y@o@s@y@s
+vDFF
+R12
+!i10b 1
+!s100 9Kc]>n0;m0OTK<i3l8?_:0
+R6
+ImAE4Yl:3;JSDThkIlD<CO1
+R7
+Z16 w1638820552
+Z17 8C:/Users/Asus/Desktop/Yosys/mycells.v
+Z18 FC:/Users/Asus/Desktop/Yosys/mycells.v
+!i122 315
+L0 20 6
+R8
+R9
+r1
+!s85 0
+31
+R13
+Z19 !s107 C:/Users/Asus/Desktop/Yosys/mycells.v|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Asus/Desktop/Yosys/mycells.v|
+!i113 0
+R15
+R3
+n@d@f@f
+vDFF_PP0
+R12
+!i10b 1
+!s100 Ig4QjH@^Nee5aAjSWm?Q_2
+R6
+IUlI94Q=862ZDV1AlIUIl60
+R7
+R16
+R17
+R18
+!i122 315
+L0 27 10
+R8
+R9
+r1
+!s85 0
+31
+R13
+R19
+R20
+!i113 0
+R15
+R3
+n@d@f@f_@p@p0
+vDFF_PP1
+R12
+!i10b 1
+!s100 UiV@]1Uc:BLDF`BdJoboO2
+R6
+I<jMShQD;^M]KY=WHBN3n23
+R7
+R16
+R17
+R18
+!i122 315
+L0 38 10
+R8
+R9
+r1
+!s85 0
+31
+R13
+R19
+R20
+!i113 0
+R15
+R3
+n@d@f@f_@p@p1
+vNAND
+R12
+!i10b 1
+!s100 iQeT?e=ifMkPc<9Y^9B8e2
+R6
+IA0Gh]MX8SIm1P7mX2DobX0
+R7
+R16
+R17
+R18
+!i122 315
+L0 8 5
+R8
+R9
+r1
+!s85 0
+31
+R13
+R19
+R20
+!i113 0
+R15
+R3
+n@n@a@n@d
+vNOR
+R12
+!i10b 1
+!s100 jD8b28P?Y<Be0n5^SEN6T2
+R6
+IX[i]eXhMFTEbzTO=zSF5l2
+R7
+R16
+R17
+R18
+!i122 315
+L0 14 5
+R8
+R9
+r1
+!s85 0
+31
+R13
+R19
+R20
+!i113 0
+R15
+R3
+n@n@o@r
+vNOT
+R12
+!i10b 1
+!s100 3Tm5Z8>`m[E>PKjj4J_TZ3
+R6
+IcH[UV@[Hmcon0JOdoVOOA2
+R7
+R16
+R17
+R18
+!i122 315
+L0 2 5
+R8
+R9
+r1
+!s85 0
+31
+R13
+R19
+R20
+!i113 0
+R15
+R3
+n@n@o@t
+vtb1
+R5
+R12
+!i10b 1
+!s100 :0QbgonimoACUgOFJ8d_l0
+R6
+I^;@a74j>Z:bc?JWS`Z6ha1
+S1
+R7
+w1715100290
+8C:/Users/Asus/Desktop/CA3/tb1.sv
+FC:/Users/Asus/Desktop/CA3/tb1.sv
+!i122 312
+L0 1 31
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Asus/Desktop/CA3/tb1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Asus/Desktop/CA3/tb1.sv|
+!i113 0
+R11
+R3
+vtb1_yosys
+R12
+!i10b 1
+!s100 ;L;L9hMKYzQUlT[oQFH[50
+R6
+IiODc9omU8e6B:K]^gm7Nh3
+R7
+w1715062540
+8C:/Users/Asus/Desktop/CA3/tb1-yosys.v
+FC:/Users/Asus/Desktop/CA3/tb1-yosys.v
+!i122 314
+Z21 L0 3 38
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Asus/Desktop/CA3/tb1-yosys.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Asus/Desktop/CA3/tb1-yosys.v|
+!i113 0
+R15
+R3
+vtb2
+R5
+R12
+!i10b 1
+!s100 lQbX47mgVf<I_GbGZaP@N2
+R6
+IcU>VB9=O?gJ]XV]fAcmYo3
+S1
+R7
+w1715104788
+8C:\Users\Asus\Desktop\CA3\tb2.sv
+FC:\Users\Asus\Desktop\CA3\tb2.sv
+!i122 317
+R21
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 C:\Users\Asus\Desktop\CA3\tb2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Asus\Desktop\CA3\tb2.sv|
+!i113 0
+R11
+R3
+vtb2_yosys
+R5
+R12
+!i10b 1
+!s100 h9lXdD2_0FQh<IO4>5M=42
+R6
+IV2dANmkKm3A:hRl_?ee>J0
+S1
+R7
+w1715104270
+8C:\Users\Asus\Desktop\CA3\tb-2-yosys.sv
+FC:\Users\Asus\Desktop\CA3\tb-2-yosys.sv
+!i122 319
+R21
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 C:\Users\Asus\Desktop\CA3\tb-2-yosys.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Asus\Desktop\CA3\tb-2-yosys.sv|
+!i113 0
+R11
+R3
+vyosysalu
+!s110 1714755072
+!i10b 1
+!s100 Y88j[Iz5`kn8jkT[6j^XK2
+R6
+I4]VSI>9A6e4C9EG7A<;ZT3
+R7
+w1714755061
+8C:\Users\Asus\Desktop\CA3\q1-yosys.v
+FC:\Users\Asus\Desktop\CA3\q1-yosys.v
+!i122 30
+R14
+R8
+R9
+r1
+!s85 0
+31
+!s108 1714755072.000000
+!s107 C:\Users\Asus\Desktop\CA3\q1-yosys.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Asus\Desktop\CA3\q1-yosys.v|
+!i113 0
+R15
+R3

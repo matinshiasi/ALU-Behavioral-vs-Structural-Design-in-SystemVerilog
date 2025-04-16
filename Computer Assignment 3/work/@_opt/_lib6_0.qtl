@@ -1,0 +1,782 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1715104796
+Vo0=@<M[eVaBNU2PSgFYno1
+Z1 04 3 4 work tb2 fast 0
+=1-40a3cc8bba0a-663a6c1c-bc-35c0
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+T_opt1
+!s110 1715104765
+VKLoge5kI]j@^el]zo403g0
+R1
+=1-40a3cc8bba0a-663a6bfd-47-2128
+o-quiet -auto_acc_if_foreign -work work
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1715104291
+VIVYW5jg9[Ic0>MN4M<6JV3
+04 9 4 work tb2_yosys fast 0
+=1-40a3cc8bba0a-663a6a23-23c-469c
+R2
+R3
+n@_opt2
+R4
+R0
+vALU
+Z5 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z6 !s110 1715104792
+!i10b 1
+!s100 _Li5D?X>l3_>hLg4FYN822
+Z7 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IdCzG`:kb?2JHa2jbCH8[J0
+S1
+Z8 dC:/Users/Asus/Desktop/CA3
+w1715060877
+8C:/Users/Asus/Desktop/CA3/q1.sv
+FC:/Users/Asus/Desktop/CA3/q1.sv
+!i122 302
+L0 1 28
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1715104791.000000
+!s107 C:/Users/Asus/Desktop/CA3/q1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Asus/Desktop/CA3/q1.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@a@l@u
+vALU_struct
+R5
+R6
+!i10b 1
+!s100 ]X8?b3UgRBeU]]]e:INe>2
+R7
+I8C9BY?QX<67]^V]OT;BA92
+S1
+R8
+w1715104025
+8C:/Users/Asus/Desktop/CA3/q2-yosys.sv
+FC:/Users/Asus/Desktop/CA3/q2-yosys.sv
+!i122 309
+L0 5 5437
+R9
+R10
+r1
+!s85 0
+31
+Z12 !s108 1715104792.000000
+!s107 C:/Users/Asus/Desktop/CA3/q2-yosys.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Asus/Desktop/CA3/q2-yosys.sv|
+!i113 0
+R11
+R3
+n@a@l@u_struct
+vALU_tb
+R5
+!s110 1714732053
+!i10b 1
+!s100 TBo7cPaD6YR]:j:iEHfF13
+R7
+I?JH`5?;74QHR]Vgd1302f3
+S1
+R8
+w1714732043
+8C:\Users\Asus\Desktop\CA3\tb1.sv
+FC:\Users\Asus\Desktop\CA3\tb1.sv
+!i122 6
+L0 1 34
+R9
+R10
+r1
+!s85 0
+31
+!s108 1714732053.000000
+!s107 C:\Users\Asus\Desktop\CA3\tb1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Asus\Desktop\CA3\tb1.sv|
+!i113 0
+R11
+R3
+n@a@l@u_tb
+vALU_YOSYS
+R6
+!i10b 1
+!s100 1<W7Jz7[KVedaGbchkZ>L0
+R7
+IiE<R25e2Q1zQXE=3>z04S3
+R8
+w1715061500
+8C:/Users/Asus/Desktop/CA3/q1-yosys.v
+FC:/Users/Asus/Desktop/CA3/q1-yosys.v
+!i122 304
+Z13 L0 5 6284
+R9
+R10
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Asus/Desktop/CA3/q1-yosys.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Asus/Desktop/CA3/q1-yosys.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@a@l@u_@y@o@s@y@s
+vDFF
+R6
+!i10b 1
+!s100 9Kc]>n0;m0OTK<i3l8?_:0
+R7
+ImAE4Yl:3;JSDThkIlD<CO1
+R8
+Z15 w1638820552
+Z16 8C:/Users/Asus/Desktop/Yosys/mycells.v
+Z17 FC:/Users/Asus/Desktop/Yosys/mycells.v
+!i122 306
+L0 20 6
+R9
+R10
+r1
+!s85 0
+31
+R12
+Z18 !s107 C:/Users/Asus/Desktop/Yosys/mycells.v|
+Z19 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Asus/Desktop/Yosys/mycells.v|
+!i113 0
+R14
+R3
+n@d@f@f
+vDFF_PP0
+R6
+!i10b 1
+!s100 Ig4QjH@^Nee5aAjSWm?Q_2
+R7
+IUlI94Q=862ZDV1AlIUIl60
+R8
+R15
+R16
+R17
+!i122 306
+L0 27 10
+R9
+R10
+r1
+!s85 0
+31
+R12
+R18
+R19
+!i113 0
+R14
+R3
+n@d@f@f_@p@p0
+vDFF_PP1
+R6
+!i10b 1
+!s100 UiV@]1Uc:BLDF`BdJoboO2
+R7
+I<jMShQD;^M]KY=WHBN3n23
+R8
+R15
+R16
+R17
+!i122 306
+L0 38 10
+R9
+R10
+r1
+!s85 0
+31
+R12
+R18
+R19
+!i113 0
+R14
+R3
+n@d@f@f_@p@p1
+vNAND
+R6
+!i10b 1
+!s100 iQeT?e=ifMkPc<9Y^9B8e2
+R7
+IA0Gh]MX8SIm1P7mX2DobX0
+R8
+R15
+R16
+R17
+!i122 306
+L0 8 5
+R9
+R10
+r1
+!s85 0
+31
+R12
+R18
+R19
+!i113 0
+R14
+R3
+n@n@a@n@d
+vNOR
+R6
+!i10b 1
+!s100 jD8b28P?Y<Be0n5^SEN6T2
+R7
+IX[i]eXhMFTEbzTO=zSF5l2
+R8
+R15
+R16
+R17
+!i122 306
+L0 14 5
+R9
+R10
+r1
+!s85 0
+31
+R12
+R18
+R19
+!i113 0
+R14
+R3
+n@n@o@r
+vNOT
+R6
+!i10b 1
+!s100 3Tm5Z8>`m[E>PKjj4J_TZ3
+R7
+IcH[UV@[Hmcon0JOdoVOOA2
+R8
+R15
+R16
+R17
+!i122 306
+L0 2 5
+R9
+R10
+r1
+!s85 0
+31
+R12
+R18
+R19
+!i113 0
+R14
+R3
+n@n@o@t
+vtb1
+R5
+R6
+!i10b 1
+!s100 :0QbgonimoACUgOFJ8d_l0
+R7
+I^;@a74j>Z:bc?JWS`Z6ha1
+S1
+R8
+w1715100290
+8C:/Users/Asus/Desktop/CA3/tb1.sv
+FC:/Users/Asus/Desktop/CA3/tb1.sv
+!i122 303
+L0 1 31
+R9
+R10
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Asus/Desktop/CA3/tb1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Asus/Desktop/CA3/tb1.sv|
+!i113 0
+R11
+R3
+vtb1_yosys
+R6
+!i10b 1
+!s100 ;L;L9hMKYzQUlT[oQFH[50
+R7
+IiODc9omU8e6B:K]^gm7Nh3
+R8
+w1715062540
+8C:/Users/Asus/Desktop/CA3/tb1-yosys.v
+FC:/Users/Asus/Desktop/CA3/tb1-yosys.v
+!i122 305
+Z20 L0 3 38
+R9
+R10
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Asus/Desktop/CA3/tb1-yosys.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Asus/Desktop/CA3/tb1-yosys.v|
+!i113 0
+R14
+R3
+vtb2
+R5
+R6
+!i10b 1
+!s100 lQbX47mgVf<I_GbGZaP@N2
+R7
+IcU>VB9=O?gJ]XV]fAcmYo3
+S1
+R8
+w1715104788
+8C:\Users\Asus\Desktop\CA3\tb2.sv
+FC:\Users\Asus\Desktop\CA3\tb2.sv
+!i122 308
+R20
+R9
+R10
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\Asus\Desktop\CA3\tb2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Asus\Desktop\CA3\tb2.sv|
+!i113 0
+R11
+R3
+vtb2_yosys
+R5
+R6
+!i10b 1
+!s100 h9lXdD2_0FQh<IO4>5M=42
+R7
+IV2dANmkKm3A:hRl_?ee>J0
+S1
+R8
+w1715104270
+8C:\Users\Asus\Desktop\CA3\tb-2-yosys.sv
+FC:\Users\Asus\Desktop\CA3\tb-2-yosys.sv
+!i122 310
+R20
+R9
+R10
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\Asus\Desktop\CA3\tb-2-yosys.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Asus\Desktop\CA3\tb-2-yosys.sv|
+!i113 0
+R11
+R3
+vyosysalu
+!s110 1714755072
+!i10b 1
+!s100 Y88j[Iz5`kn8jkT[6j^XK2
+R7
+I4]VSI>9A6e4C9EG7A<;ZT3
+R8
+w1714755061
+8C:\Users\Asus\Desktop\CA3\q1-yosys.v
+FC:\Users\Asus\Desktop\CA3\q1-yosys.v
+!i122 30
+R13
+R9
+R10
+r1
+!s85 0
+31
+!s108 1714755072.000000
+!s107 C:\Users\Asus\Desktop\CA3\q1-yosys.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Asus\Desktop\CA3\q1-yosys.v|
+!i113 0
+R14
+R3
+m255
+K4
+z2
+!s8c locked
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+!s95 MTI
+cModel Technology Builtin Library
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+dC:/cygwin/pc_home/rhino/buildsites/2020.p/builds/win64/modeltech
+XMTI_CSTDLIB
+Z0 DXx4 work 3 STD 0 22 C5P`]aF5g@jYQiTVH86>n3
+Z1 !s110 1602644225
+!i10b 1
+!s100 icQCI_Oj3>0h:SB`A4JWn0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2B]QM]?FN1P9NZGF>TCVV0
+S1
+!s86 1
+Z3 d$MODEL_TECH/..
+Z4 w1602644073
+Z5 8verilog_src/dpi_cpack/dpi_cpackages.sv
+Z6 Fverilog_src/dpi_cpack/dpi_cpackages.sv
+!i122 3
+Z7 L0 17 0
+V2B]QM]?FN1P9NZGF>TCVV0
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1602644225.000000
+Z10 !s107 verilog_src/dpi_cpack/dpi_cpackages.sv|
+Z11 !s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/dpi_cpackages.sv|
+!i113 1
+Z12 o-suppress 12110 -debuglib -u -sv -s -work sv_std -dirpath {$MODEL_TECH/..} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+n@m@t@i_@c@s@t@d@l@i@b
+Xmti_cstdlib
+Z14 DXx4 work 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 OW0mb1CF=jV3nlik?oMRV0
+R2
+I7YQT9N??5=d:Wzg^n=:fZ2
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R7
+V7YQT9N??5=d:Wzg^n=:fZ2
+R8
+r1
+!s85 0
+31
+R9
+R10
+Z15 !s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/dpi_cpackages.sv|
+!i113 1
+Z16 o-suppress 12110 -debuglib -sv -s -work sv_std -dirpath {$MODEL_TECH/..} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R13
+XMTI_CSTRING
+R0
+R1
+!i10b 1
+!s100 kDlQo?nkDBVoK<AS]3QjD1
+R2
+ILecfHDQ26AMY35bfFmmT_3
+S1
+!s86 1
+R3
+R4
+R5
+R6
+!i122 3
+Z17 L0 28 0
+VLecfHDQ26AMY35bfFmmT_3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@m@t@i_@c@s@t@r@i@n@g
+Xmti_cstring
+R14
+R1
+!i10b 1
+!s100 KaVS423PbHN8BiZUD@GGL2
+R2
+I]IJ]dNQG`4CJEj@oIV4_Y1
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R17
+V]IJ]dNQG`4CJEj@oIV4_Y1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R15
+!i113 1
+R16
+R13
+XMTI_DEBUG
+R0
+R1
+!i10b 1
+!s100 TB]^ezUTiRTalgCgbO]<l3
+R2
+ILT0iZ><B;KMlBmS_S<>bW2
+S1
+!s86 1
+R3
+R4
+R5
+R6
+!i122 3
+Z18 L0 47 0
+VLT0iZ><B;KMlBmS_S<>bW2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@m@t@i_@d@e@b@u@g
+Xmti_debug
+R14
+R1
+!i10b 1
+!s100 ^b=Bi@Q2JjgYiFl;:40Sc1
+R2
+IMhYD3DEHh;3nkFMn>d<UC3
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R18
+VMhYD3DEHh;3nkFMn>d<UC3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R15
+!i113 1
+R16
+R13
+XMTI_FCOVER
+R0
+Z19 !s110 1602644226
+!i10b 1
+!s100 fK:8]FFZh3P`7Fl@:5aC70
+R2
+I0OQnzn:_bU33b7^0l3Zfk1
+S1
+!s86 1
+R3
+Z20 w1602644074
+Z21 8verilog_src/mti_sv/fcover.sv
+Z22 Fverilog_src/mti_sv/fcover.sv
+!i122 7
+Z23 L0 5 0
+V0OQnzn:_bU33b7^0l3Zfk1
+R8
+r1
+!s85 0
+31
+Z24 !s108 1602644226.000000
+Z25 !s107 verilog_src/mti_sv/fcover.sv|
+!s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/mti_sv/fcover.sv|
+!i113 1
+R12
+R13
+n@m@t@i_@f@c@o@v@e@r
+Xmti_fcover
+R14
+R19
+!i10b 1
+!s100 efa[11Ul`>0g6:zg_Xi1E0
+R2
+IIh9jDXlg9:E34a:]f_gAg1
+S1
+R3
+R20
+R21
+R22
+!i122 6
+R23
+VIh9jDXlg9:E34a:]f_gAg1
+R8
+r1
+!s85 0
+31
+R24
+R25
+!s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/mti_sv/fcover.sv|
+!i113 1
+R16
+R13
+XMTI_FLI
+R0
+R1
+!i10b 1
+!s100 n_2PQUlSo15MDNG48]QWl2
+R2
+I>zPK83f9c>_UScHVSd;CN2
+S1
+!s86 1
+R3
+R4
+R5
+R6
+!i122 3
+Z26 L0 4 0
+V>zPK83f9c>_UScHVSd;CN2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@m@t@i_@f@l@i
+Xmti_fli
+R14
+R1
+!i10b 1
+!s100 kSbeP86I0@SfQi;i57@W00
+R2
+IB85Hkm<ANkM<`JN1dFJde3
+S1
+R3
+R4
+R5
+R6
+!i122 2
+R26
+VB85Hkm<ANkM<`JN1dFJde3
+R8
+r1
+!s85 0
+31
+R9
+R10
+R15
+!i113 1
+R16
+R13
+XMTI_SCDPI
+R0
+R19
+!i10b 1
+!s100 L3B:Y?;k0V0PDi<?0ec=93
+R2
+I5fToGUlJlG5K2mk3MRG<21
+S1
+!s86 1
+R3
+R20
+Z27 8verilog_src/dpi_cpack/scdpi.sv
+Z28 Fverilog_src/dpi_cpack/scdpi.sv
+!i122 5
+Z29 L0 1 0
+V5fToGUlJlG5K2mk3MRG<21
+R8
+r1
+!s85 0
+31
+R24
+Z30 !s107 verilog_src/dpi_cpack/scdpi.sv|
+!s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/scdpi.sv|
+!i113 1
+R12
+R13
+n@m@t@i_@s@c@d@p@i
+Xmti_scdpi
+R14
+R19
+!i10b 1
+!s100 Y]PX:=_5`zJ63fMJVe^_M3
+R2
+IOjFKWz`5YeLO>M8M6l4Q:3
+S1
+R3
+R20
+R27
+R28
+!i122 4
+R29
+VOjFKWz`5YeLO>M8M6l4Q:3
+R8
+r1
+!s85 0
+31
+R9
+R30
+!s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/dpi_cpack/scdpi.sv|
+!i113 1
+R16
+R13
+XSTD
+R1
+!i10b 1
+!s100 EKK>A5XKXXLOz9iKzP2G81
+R2
+IC5P`]aF5g@jYQiTVH86>n3
+S1
+!s86 1
+R3
+R20
+Z31 8verilog_src/std/std.sv
+Z32 Fverilog_src/std/std.sv
+!i122 1
+Z33 L0 6 0
+VC5P`]aF5g@jYQiTVH86>n3
+R8
+r1
+!s85 0
+31
+R9
+Z34 !s107 verilog_src/std/std.sv|
+!s90 -debuglib|-suppress|12110|-u|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/std/std.sv|
+!i113 1
+R12
+R13
+n@s@t@d
+Xstd
+R1
+!i10b 1
+!s100 ]i[_JOYIoOMc`AEjL2EkC0
+R2
+I9oUSJO;AeEaW`l:M@^WG92
+S1
+R3
+R20
+R31
+R32
+!i122 0
+R33
+V9oUSJO;AeEaW`l:M@^WG92
+R8
+r1
+!s85 0
+31
+R9
+R34
+!s90 -debuglib|-suppress|12110|-sv|-s|-work|sv_std|-dirpath|$MODEL_TECH/..|verilog_src/std/std.sv|
+!i113 1
+R16
+R13

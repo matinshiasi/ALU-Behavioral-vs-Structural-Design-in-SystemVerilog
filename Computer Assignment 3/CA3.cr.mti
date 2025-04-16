@@ -1,0 +1,74 @@
+C:/Users/Asus/Desktop/Yosys/mycells.v {1 {vlog -work work -vopt -stats=none C:/Users/Asus/Desktop/Yosys/mycells.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module NOR
+-- Compiling module DFF
+-- Compiling module DFF_PP0
+-- Compiling module DFF_PP1
+
+Top level modules:
+	NOT
+	NAND
+	NOR
+	DFF
+	DFF_PP0
+	DFF_PP1
+
+} {} {}} C:/Users/Asus/Desktop/CA3/q1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Asus/Desktop/CA3/q1.sv
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Asus/Desktop/CA3/tb1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Asus/Desktop/CA3/tb1.sv
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb1
+
+Top level modules:
+	tb1
+
+} {} {}} C:/Users/Asus/Desktop/CA3/q1-yosys.v {1 {vlog -work work -vopt -stats=none C:/Users/Asus/Desktop/CA3/q1-yosys.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_YOSYS
+
+Top level modules:
+	ALU_YOSYS
+
+} {} {}} C:/Users/Asus/Desktop/CA3/q2-yosys.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Asus/Desktop/CA3/q2-yosys.sv
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_struct
+
+Top level modules:
+	ALU_struct
+
+} {} {}} C:/Users/Asus/Desktop/CA3/q2.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Asus\Desktop\CA3\q2.sv}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_struct
+
+Top level modules:
+	ALU_struct
+
+} {} {}} C:/Users/Asus/Desktop/CA3/tb1-yosys.v {1 {vlog -work work -vopt -stats=none C:/Users/Asus/Desktop/CA3/tb1-yosys.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb1_yosys
+
+Top level modules:
+	tb1_yosys
+
+} {} {}} C:/Users/Asus/Desktop/CA3/tb2.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Asus\Desktop\CA3\tb2.sv}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb2
+
+Top level modules:
+	tb2
+
+} {} {}} C:/Users/Asus/Desktop/CA3/tb-2-yosys.sv {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Asus\Desktop\CA3\tb-2-yosys.sv}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb2_yosys
+
+Top level modules:
+	tb2_yosys
+
+} {} {}}
